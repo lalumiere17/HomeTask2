@@ -1,0 +1,7 @@
+C:\Users\sveta\source\repos\HomeTask2\HomeTask2\bin\Debug\HomeTask2.exe.config
+C:\Users\sveta\source\repos\HomeTask2\HomeTask2\bin\Debug\HomeTask2.exe
+C:\Users\sveta\source\repos\HomeTask2\HomeTask2\bin\Debug\HomeTask2.pdb
+C:\Users\sveta\source\repos\HomeTask2\HomeTask2\obj\Debug\HomeTask2.csproj.CoreCompileInputs.cache
+C:\Users\sveta\source\repos\HomeTask2\HomeTask2\obj\Debug\HomeTask2.exe
+C:\Users\sveta\source\repos\HomeTask2\HomeTask2\obj\Debug\HomeTask2.pdb
+C:\Users\sveta\source\repos\HomeTask2\HomeTask2\obj\Debug\HomeTask2.csprojAssemblyReference.cache
